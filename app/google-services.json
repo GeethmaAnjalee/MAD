@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "927453206478",
+    "project_id": "madtriporgproject",
+    "storage_bucket": "madtriporgproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927453206478:android:43c64b98a9809326f57d9f",
+        "android_client_info": {
+          "package_name": "com.example.madproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927453206478-vjg1rlkv9eva0mj9v10mvkqg34ufjuuj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtRAafOXW6A4iE5d6hruGXHRAD5hPCXMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927453206478-vjg1rlkv9eva0mj9v10mvkqg34ufjuuj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
